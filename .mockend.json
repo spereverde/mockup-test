@@ -9,5 +9,14 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  {"Person": {
+    "masterEmployeeNr": "string",
+    "uid": "string"
+    "surname": "string",
+    "firstName": "string",
+    "preferredName": "string",
+    "title": "string",
+    "gender": "string"
   }
 }
