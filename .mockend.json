@@ -10,9 +10,9 @@
     "body": "string",
     "post": "Post"
   },
-  {"Person": {
+  "Person": {
     "masterEmployeeNr": "string",
-    "uid": "string"
+    "uid": "string",
     "surname": "string",
     "firstName": "string",
     "preferredName": "string",
